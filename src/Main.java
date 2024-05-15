@@ -18,9 +18,5 @@ public class Main {
 
         System.out.println();
 
-        int e = (int)(Math.random()*101);
-        System.out.println("Випадкове число = " + e);
-        int f = String.valueOf(e).length();
-        System.out.println("Кількість цифр у числі = " + f);
     }
 }
